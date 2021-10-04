@@ -1,0 +1,22 @@
+.transaction__table {
+  margin: 0px auto 50px;
+  width: 500px;
+  text-align: center;
+  color: rgb(41, 44, 43);
+  border-radius: 15px;
+  background: rgba(62, 66, 63, 0.2);
+}
+
+.transaction__table td {
+  border: 2px solid rgb(90, 92, 102);
+  border-radius: 5px;
+}
+
+.transaction__table th {
+  border: 3px solid rgb(81, 88, 83);
+  border-radius: 3px;
+}
+
+.transactions__title {
+  color: rgb(0, 0, 0);
+}
